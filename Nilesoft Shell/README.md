@@ -1,25 +1,23 @@
 # Nilesoft Shell - Catppuccin Macchiato
 
-This folder will contain my Catppuccin Macchiato configuration for Nilesoft Shell.
+This folder contains the `theme.nss` theme configuration for Nilesoft Shell, using colors from the **Catppuccin Macchiato** palette.
+
+## Files
+
+- [`theme.nss`](./theme.nss) - theme configuration with a dark Macchiato background, muted text, blue accents, subtle borders, and shadows.
 
 ## Installation
 
-The exact instructions will be confirmed when the configuration files are added. If the configuration replaces an existing file:
+1. Make a backup of your current Nilesoft Shell configuration.
+2. Locate the Nilesoft Shell configuration directory and the theme file used by your setup.
+3. Copy `theme.nss` into the appropriate location, following the installation method for your version of Nilesoft Shell.
+4. Reload Nilesoft Shell or restart it if required.
 
-1. Open the Nilesoft Shell configuration folder.
-2. Back up the original configuration.
-3. Copy the provided Catppuccin Macchiato configuration into the appropriate location.
-4. Replace the existing file only if the instructions specify it.
-5. Reload Nilesoft Shell to apply the changes.
-
-> **Important:** Always back up your original configuration before replacing it.
+Keep a backup of the existing file so you can restore your previous configuration if needed. Exact paths can vary by installation.
 
 ## Credits
 
-This configuration is part of my personal Catppuccin Macchiato setup.
+- Color palette: [Catppuccin Macchiato](https://catppuccin.com/)
+- Application: [Nilesoft Shell official website](https://www.nilesoft.org/)
 
-Original authors and sources of inspiration will be credited here when the files are added. Adapted configurations are personal versions and should not be considered official work from their original creators.
-
-## Nilesoft Shell
-
-[Nilesoft Shell Official Website](https://www.nilesoft.org/)
+This is a personal configuration and is not an official Nilesoft Shell theme release.
