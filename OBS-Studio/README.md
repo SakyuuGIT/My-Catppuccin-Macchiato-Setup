@@ -1,46 +1,29 @@
 # OBS Studio - Catppuccin Macchiato Theme
 
-A Catppuccin Macchiato color theme for OBS Studio.
+A Catppuccin Macchiato variant for the OBS Studio **Yami** theme.
 
-## Why I made this
+## Files
 
-I want a consistent Catppuccin Macchiato appearance across my setup, including OBS Studio.
-
-The theme files and final details will be added to this folder later. This README will be updated to match the exact files and installation process.
+- `Yami_CatppuccinMacchiato.ovt` - OBS Studio theme variant.
 
 ## Installation
 
-### Windows
+1. Download `Yami_CatppuccinMacchiato.ovt` from this folder.
+2. Copy it into OBS Studio's themes directory:
+   `C:\\Program Files\\obs-studio\\data\\obs-studio\\themes\\`
+3. Open OBS Studio and go to **Settings → Appearance**.
+4. Select **Yami** as the base theme and **Catppuccin Macchiato** as the theme variant.
+5. Apply the changes.
 
-1. Download or clone this repository.
-2. Open your OBS Studio themes folder:
-
-   `C:\Program Files\obs-studio\data\obs-studio\themes\`
-
-3. Copy the theme files from this folder into the OBS Studio `themes` folder.
-4. Back up any files before replacing existing ones.
-5. Restart OBS Studio if required.
-
-> If OBS Studio is installed elsewhere, navigate to the `data\obs-studio\themes\` directory in your OBS installation folder.
-
-## Enable the theme
-
-Once the theme files are available:
-
-1. Open OBS Studio.
-2. Go to **Settings → Appearance**.
-3. Select the appropriate base theme and the Catppuccin Macchiato variant, according to the final theme files.
-4. Apply the changes.
-
-The exact selection steps will be confirmed when the theme is added.
+If OBS Studio is installed in a different location, use its corresponding `data\\obs-studio\\themes\\` directory.
 
 ## Preview
 
-A preview will be added when the theme screenshots are ready.
+See the preview in the [dedicated theme repository](https://github.com/SakyuuGIT/OBS-Studio-Catppuccin-Macchiato-Theme).
 
 ## Credits
 
-The original OBS Studio theme, Catppuccin palette, and any other source projects will be credited here. Third-party license and copyright information will be preserved.
+This theme variant extends the Yami OBS Studio theme and uses the Catppuccin Macchiato palette. See the dedicated repository for the original theme details and credits.
 
 ## Dedicated repository
 
