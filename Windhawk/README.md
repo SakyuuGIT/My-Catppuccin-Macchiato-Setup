@@ -1,21 +1,31 @@
 # Windhawk - Catppuccin Macchiato
 
-This folder will contain my Catppuccin Macchiato configurations for Windhawk mods.
+This folder contains my Catppuccin Macchiato configurations for Windhawk mods. Each configuration file is stored directly in this folder.
+
+## Configurations
+
+- `Windows-11-Taskbar-Styler.yaml`
+- `Windows-11-Start-Menu-Styler.yaml`
+- `Windows-11-Notification-Center-Styler.yaml`
+- `Custom-Window-Corner-Radius.yaml`
+- `Resource-Redirect.yaml`
+- `Taskbar-Tray-System-Icon-Tweaks.yaml`
+- `Taskbar-Auto-Hide-Speed.yaml`
+- `Middle-Click-to-Close-on-the-Taskbar.yaml`
+- `Alt-Tab-per-Monitor.yaml`
 
 ## Installation
-
-Once the configuration files have been added:
 
 1. Open **Windhawk**.
 2. Open the Windhawk mod you want to customize.
 3. Open its **Advanced** settings.
 4. Switch to **Text** mode.
-5. Open the corresponding configuration file from the `Plugins` folder.
+5. Open the corresponding configuration file from this folder.
 6. Copy the file contents.
 7. Paste them into the mod's **Text** mode.
 8. Apply the changes.
 
-Each configuration file in the `Plugins` folder will correspond to a specific Windhawk mod. The exact list will be documented when the files are added.
+Each configuration file corresponds to a specific Windhawk mod.
 
 ## Credits
 
