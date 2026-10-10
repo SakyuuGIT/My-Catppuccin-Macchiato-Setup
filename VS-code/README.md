@@ -1,21 +1,20 @@
-# VS Code - Catppuccin Macchiato
+# Visual Studio Code - Catppuccin Macchiato
 
-This folder contains instructions for using the Catppuccin Macchiato theme in Visual Studio Code.
+This folder documents how to use the **Catppuccin Macchiato** color theme in Visual Studio Code.
 
 ## Installation
 
 1. Open **Visual Studio Code**.
 2. Open the **Extensions** panel.
-3. Search for **Catppuccin for VSCode**.
-4. Install the official Catppuccin theme extension.
-5. Open the Command Palette with `Ctrl + Shift + P`.
-6. Search for **Preferences: Color Theme**.
-7. Select the **Catppuccin Macchiato** variant.
+3. Search for **Catppuccin for VSCode** and install the official extension.
+4. Open the Command Palette with `Ctrl + Shift + P`.
+5. Search for **Preferences: Color Theme**.
+6. Select **Catppuccin Macchiato**.
 
-## Marketplace
+## Theme source
 
-[Catppuccin for VSCode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [Catppuccin for VSCode on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [Catppuccin official website](https://catppuccin.com/)
+- [Visual Studio Code official website](https://code.visualstudio.com/)
 
-## Visual Studio Code
-
-[Visual Studio Code Official Website](https://code.visualstudio.com/)
+This folder contains setup instructions; install the extension from the official Marketplace to receive its theme files and updates.
