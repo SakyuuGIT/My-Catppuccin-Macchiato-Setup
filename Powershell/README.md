@@ -1,20 +1,24 @@
 # Windows Terminal - Catppuccin Macchiato
 
-This folder will contain my Catppuccin Macchiato configuration for Windows Terminal and PowerShell.
+This folder contains a Windows Terminal `settings.json` configured with the **Catppuccin Macchiato** color scheme and a PowerShell profile.
+
+> **Important:** This is a Windows Terminal settings file. It configures the terminal profile and color scheme; it is not, by itself, a separate syntax-highlighting theme for the PowerShell console.
+
+## File
+
+- [`settings.json`](./settings.json)
 
 ## Installation
 
-The exact steps will be finalized once the configuration file is added. If the configuration uses Windows Terminal's `settings.json`, the general process is:
-
 1. Open **Windows Terminal**.
-2. Open **Settings**.
-3. Select **Open JSON file**.
-4. Back up your existing `settings.json`.
-5. Carefully merge or replace the relevant settings with the provided configuration.
-6. Save the file and restart Windows Terminal if necessary.
+2. Open **Settings** and choose **Open JSON file**.
+3. Back up your existing `settings.json`.
+4. Review the file in this folder and merge the relevant profile and color-scheme settings into your own file, or replace it only if you intend to use the included settings as a complete configuration.
+5. Save the file and restart Windows Terminal if needed.
 
-> **Important:** Replacing `settings.json` can overwrite your existing Windows Terminal settings. Make a backup first. If the file contains other personal settings, merging the relevant parts may be preferable to replacing the entire file.
+**Do not replace your existing file without a backup.** A complete replacement can remove your other profiles, key bindings, and preferences.
 
-## Windows Terminal
+## Credits and source
 
-[Windows Terminal Official Website](https://aka.ms/terminal)
+- Color palette: [Catppuccin Macchiato](https://catppuccin.com/)
+- Application: [Windows Terminal](https://aka.ms/terminal)
