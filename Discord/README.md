@@ -1,38 +1,36 @@
 # Discord - Catppuccin Macchiato
 
-This folder will contain my Catppuccin Macchiato Discord theme.
+This folder contains my Discord theme: **system24 Catppuccin Macchiato**, by [refact0r](https://github.com/refact0r/system24).
+
+## Theme file
+
+- [`system24-catppuccin-macchiato.theme.css`](./system24-catppuccin-macchiato.theme.css)
+
+The theme uses the Catppuccin Macchiato palette, the DM Mono font, a TUI-inspired layout, panel labels, ASCII-style titles, and other custom styling. It imports the system24 stylesheet from the upstream project, so an internet connection is required for that stylesheet to load.
 
 ## Requirements
 
-You need a Discord client modification that supports custom theme files.
-
-Examples include:
+You need a Discord client modification that supports custom theme files. Examples include:
 
 - [Vencord](https://vencord.dev/)
 - [BetterDiscord](https://betterdiscord.app/)
 - [Equicord](https://equicord.org/)
 - [Legcord](https://github.com/Legcord/Legcord)
-- Other compatible Discord clients or modifications
+
+Compatibility and installation steps can vary by client.
 
 ## Installation
 
-Installation instructions will be finalized once the theme file has been added.
+1. Install and configure a compatible Discord client modification.
+2. Open the client's **Themes** section and open its themes folder.
+3. Copy `system24-catppuccin-macchiato.theme.css` into that folder.
+4. Return to Discord and enable the theme.
 
-In general, you will need to:
-
-1. Install and configure a Discord client modification that supports custom themes.
-2. Open the client's **Themes** section.
-3. Open the themes folder.
-4. Copy the Catppuccin Macchiato theme file from this folder into the themes folder.
-5. Return to Discord and enable the theme.
-
-The exact location of the themes folder and the installation process may vary depending on the Discord client or modification you use.
+Consult your client's documentation for its exact theme-folder location and supported installation method.
 
 ## Credits
 
-Original theme sources, author credits, and applicable license information will be documented here when the theme file is added.
+- Theme: [system24 by refact0r](https://github.com/refact0r/system24)
+- Color palette: [Catppuccin Macchiato](https://catppuccin.com/)
 
-## Notes
-
-This is a personal theme setup and is not an official release of Discord or any compatible client modification.
-
+This is a personal setup, not an official Discord theme or an official release of system24.
