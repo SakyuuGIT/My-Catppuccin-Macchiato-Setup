@@ -1,32 +1,25 @@
 # Discord - Catppuccin Macchiato
 
-This folder contains my Discord theme: **system24 Catppuccin Macchiato**, by [refact0r](https://github.com/refact0r/system24).
+This folder contains the **system24 Catppuccin Macchiato** theme for Discord, originally created by [refact0r](https://github.com/refact0r/system24).
 
 ## Theme file
 
 - [`system24-catppuccin-macchiato.theme.css`](./system24-catppuccin-macchiato.theme.css)
 
-The theme uses the Catppuccin Macchiato palette, the DM Mono font, a TUI-inspired layout, panel labels, ASCII-style titles, and other custom styling. It imports the system24 stylesheet from the upstream project, so an internet connection is required for that stylesheet to load.
+The theme uses the Catppuccin Macchiato palette, DM Mono typography, a terminal-inspired (TUI) layout, panel labels, ASCII-style titles, and other visual customizations. It imports the system24 stylesheet from the upstream project, so an internet connection is required to load that stylesheet.
 
 ## Requirements
 
-You need a Discord client modification that supports custom theme files. Examples include:
-
-- [Vencord](https://vencord.dev/)
-- [BetterDiscord](https://betterdiscord.app/)
-- [Equicord](https://equicord.org/)
-- [Legcord](https://github.com/Legcord/Legcord)
-
-Compatibility and installation steps can vary by client.
+Use a Discord client modification that supports custom theme files, such as [Vencord](https://vencord.dev/), [BetterDiscord](https://betterdiscord.app/), [Equicord](https://equicord.org/), or [Legcord](https://github.com/Legcord/Legcord). Compatibility and installation steps vary by client.
 
 ## Installation
 
 1. Install and configure a compatible Discord client modification.
-2. Open the client's **Themes** section and open its themes folder.
+2. Open its **Themes** section and locate the themes folder.
 3. Copy `system24-catppuccin-macchiato.theme.css` into that folder.
 4. Return to Discord and enable the theme.
 
-Consult your client's documentation for its exact theme-folder location and supported installation method.
+Consult your client's documentation for the exact folder location and supported installation method.
 
 ## Credits
 
