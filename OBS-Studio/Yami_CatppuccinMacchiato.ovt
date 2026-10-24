@@ -146,4 +146,23 @@
     --toolbutton_bg_disabled: #1E2030;
 
     --highlight_color: #8AADF4;
+
+VolumeMeter {
+    qproperty-backgroundNominalColor: #494D64;
+    qproperty-backgroundWarningColor: #494D64;
+    qproperty-backgroundErrorColor: #494D64;
+    qproperty-foregroundNominalColor: #A6DA95;
+    qproperty-foregroundWarningColor: #EED49F;
+    qproperty-foregroundErrorColor: #ED8796;
+    qproperty-magnitudeColor: #CAD3F5;
+    qproperty-majorTickColor: #8087A2;
+    qproperty-minorTickColor: #6E738D;
+
+    qproperty-backgroundNominalColorDisabled: #363A4F;
+    qproperty-backgroundWarningColorDisabled: #363A4F;
+    qproperty-backgroundErrorColorDisabled: #363A4F;
+    qproperty-foregroundNominalColorDisabled: #6E738D;
+    qproperty-foregroundWarningColorDisabled: #6E738D;
+    qproperty-foregroundErrorColorDisabled: #6E738D;
+}
 }
